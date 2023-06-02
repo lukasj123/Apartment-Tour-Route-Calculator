@@ -1,5 +1,5 @@
 # Apartment-Tour-Route-Calculator
-This repo contains a simple program that will automatically generate an apartment tour route for NYC real estate agents.
+This repository contains a simple program that will automatically generate an apartment tour route for NYC real estate agents.
 
 Many real estate agents in NYC have to plan apartment tours for clients who wish to view multiple apartments in one day. Unfortunately, there is currently no available go-to tool to automatically generate apartment tour routes, so agents often spend a burdensome amount of time planning an efficient tour. If the list of apartments is large, this can amount to over an hour of work! Luckily, this type of algorithmic task can be automated using Python and the Google Maps API!
 
